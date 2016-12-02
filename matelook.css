@@ -1,0 +1,140 @@
+/*
+ * written by andrewt@cse.unsw.edu.au September 2016
+ * as a starting point for COMP2041/9041 assignment 2
+ * http://cgi.cse.unsw.edu.au/~cs2041/assignments/matelook/
+ *
+ * Change (or replace) the CSS below to create you own look-and-feel
+ *
+ * You will probably want to add  CSS to this file too
+ */
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #E6E6FA;
+}
+
+/*---------------------*/
+div.main {
+    overflow: auto;
+    max-height: 100%;
+    max-width: 100%;
+    clear: both;
+}
+
+/*---------------------*/
+div.user_pane {
+    float: right;
+    min-height: 85%;
+    min-width: 89%;
+    max-height: 85%;
+    max-width: 89%;
+}
+
+div.profile_picture {
+    margin: 10px;
+    float: left;
+    min-height: 300px;
+    max-width: 250px;
+    padding-top: 0.5em;
+}
+
+img.profile_picture {
+    max-width:100%;
+    min-height:200%;
+    border-radius: 1em;
+}
+
+div.matelook_user_details {
+    background-color: #627aac;
+    border:thin solid #204142;
+    border-radius: 1em;
+    padding-left: 0.42em;
+    text-align: left;
+    margin: 5px;
+    clear: right;
+    color: Lightgrey;
+}
+
+p.matelook_user_details {
+    word-break: break-all;
+    white-space: normal;
+}
+
+p.post {
+    text-align: left;
+    margin: 5px;
+    background: #b0bcd5;
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    padding-left: 0.4em;
+    border: thin solid #000000;
+}
+
+div.matelook_button {
+    text-align: center;
+}
+
+input.matelook_button {
+    background-color: #3b5998;
+    border:thin solid #904142;
+    border-radius: 0.42em;
+    color: #ffffff;
+    margin: 5px;
+    text-align: center;
+    font-size: 150%;
+}
+
+/*-------------------------*/
+div.friend_pane {
+    margin: 5px;
+    float: left;
+    text-align: center;
+    width: 10%;
+    height: 40%;
+    font-size: 70%;
+}
+
+img.friend_img{
+    width: 30px;
+    height: 30px;
+}
+
+/*------------------------*/
+div.search_pane {
+}
+
+table.search_result {
+    height: 20em;
+    width: 20em;
+}
+
+img.search_img {
+    height: 50%;
+}
+/*------------------------*/
+div.matelook_heading {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    background: #3b5998;
+}
+
+form.search_bar {
+    padding-top: 1em;
+    padding-right: 2em; 
+    float: right;
+}
+
+p.title {
+    margin: 10px;
+    font-size: 200%;
+    color: Red;
+}
+/*------------------------*/
+.footer_note {
+    padding-top: 0.4em;
+    padding-bottom: 0.4em;
+    background-color: #3b5998;
+    text-align: center;
+    color: white;
+    clear: both;
+}
+/*------------------------*/

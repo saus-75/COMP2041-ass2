@@ -1,0 +1,48 @@
+Date:   Thu Oct 20 15:08:36 2016
+Activity: Coding/Debugging
+Comment: rip
+
+
+Date:   Fri Oct 21 17:18:04 2016
+Activity: Coding/Debugging
+Comment: private data is now hidden and public data is sorted, need to implement css for them
+
+
+Date:   Sun Oct 23 18:38:59 2016
+Activity: Coding/Debugging
+Comment: user post is now displayed and in reverse chrono
+
+
+Date:   Sun Oct 23 22:18:16 2016
+Activity: Coding/Debugging
+Comment: css is more better now
+
+
+Date:   Mon Oct 24 02:36:29 2016
+Activity: Coding/Debugging
+Comment: friend list works, utilises hyperlinking, need to add thumbnail
+
+
+Date:   Mon Oct 24 04:12:47 2016
+Activity: Coding/Debugging
+Comment: revamped the whole friend list now it works
+
+
+Date:   Mon Oct 24 20:39:23 2016
+Activity: Coding/Debugging
+Comment: friend search working
+
+
+Date:   Tue Oct 25 14:54:32 2016
+Activity: Coding/Debugging
+Comment: search working, minor bug fixes, login works, but cannot get persistent login
+
+
+Date:   Tue Oct 25 22:26:46 2016
+Activity: Coding/Debugging
+Comment: login works now, using cookies, bug free i guess, fixed up my user database.
+
+
+Date:   Sat Oct 29 16:50:44 2016
+Activity: Coding/Debugging
+Comment: final commit probably

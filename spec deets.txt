@@ -1,0 +1,75 @@
+User Information & Posts (Lv 0) [x]
+    - format data
+    - private info hidden (e-mail, password, lat, long and courses should not be displayed.)
+    - user post reverse chrono
+
+Interface (Lv 0) [x]
+    - generate a nice formatted web page -> css the fuck out of it
+
+Mate List (Lv 1) [x]
+    - friend list
+    - need thumbnail
+    - clicking on it takes you to their page
+
+Mate Search (Lv 1) 
+    - searcher for username
+    - result shows user and photo
+    - clicking on it will give that person's page
+
+Login and logout (Lv 1)
+    - login page
+    - pwd checker
+    - able to logout
+
+Display Post (Lv 2)
+    - when login show their post, friend's post and any tagged post
+    - comments and replies Formatted nicely
+    - tagged post should hypelinked
+
+Making Post (Lv 2)
+    - User can make a post
+
+Searching Post (Lv 2)
+    - Looks for post with keyword (regex time bby)
+
+Commenting on Post and replying to Comments (Lv 2)
+     - comments and replys-able
+
+Mate/Unmate Users (Lv 2)
+    - Gets rid of unwanted friends
+    - Add friends
+
+Pagination of Posts & Search Result (Lv 3)
+    - have page numbers
+
+User acc creation (Lv 3)
+    - Account creation
+
+Profile Text (Lv 3)
+    - Profile bio
+
+Mate Req (Lv 3)
+    - Friends add you and you get to choose
+
+Mate Suggestion (Lv 3)
+    - Suggest friends
+
+Pwd recover (Lv 3)
+    - recover/change lost password via e-mail
+
+Upload & Deleting Images (Lv 3)
+    - up/del images
+
+Notification (Lv 3)
+    - Have notification to everything that happened
+
+Auto Hyperlink display (Lv 3)
+    - have a box show whatever link it has
+
+Privacy (Lv 3)
+    - choose privacy of stuff
+
+Adv Feat (Lv 4)
+    - Actually Facebook tbh
+
+
